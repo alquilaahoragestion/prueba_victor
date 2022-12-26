@@ -2,5 +2,5 @@
 def imprimir(value):
     return print(value)
 
-value="jfpoanb"
+value="another value"
 imprimir(value)
