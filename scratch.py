@@ -2,5 +2,5 @@
 def imprimir(value):
     return print(value)
 
-value="differnettt"
+value="differjjjnettt"
 imprimir(value)
