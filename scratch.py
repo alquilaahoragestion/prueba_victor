@@ -8,6 +8,6 @@ def imprimir(value):
 def imprimir2(value):
     return print(value)
 
-imprimir2("hellouuuu")
+imprimir2("hellouuuu number 2")
 value="another different value"
 imprimir(value)
