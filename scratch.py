@@ -5,5 +5,5 @@ def imprimir(value):
 # TODO: Create a new function
 #Do it ASAP
 
-value="differjjjnettt"
+value="another different value"
 imprimir(value)
