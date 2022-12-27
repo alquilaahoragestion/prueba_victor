@@ -5,5 +5,7 @@ def imprimir(value):
 # TODO: Create a new function
 #Do it ASAP
 
-value="differjjjnettt"
-imprimir(value)
+def imprimir2(value):
+    return print(value)
+
+imprimir2("hellouuuu")
